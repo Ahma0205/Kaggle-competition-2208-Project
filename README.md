@@ -1,6 +1,7 @@
-# **ICR - Identifying Age-Related Conditions**
+# **ICR - Identifying Age-Related Conditions (Kaggle Competition)**
 
 - Use Machine Learning to detect conditions with measurements of anonymous characteristics
+- Link to Kaggle: https://colab.research.google.com/drive/1jywU3HGE_H_drGi65A5AunegzyB_NyuX?usp=sharing
 
  ### **Description**
 
